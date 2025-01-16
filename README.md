@@ -5,13 +5,14 @@ KongValidator is a simple yet powerful email validation tool built with JavaScri
 
 # Key Features:
 
-Real-time email validation using an API.
-Checks for valid email format, domain, and SMTP status.
-User-friendly and interactive interface built with HTML, CSS, and JavaScript.
-Fast and responsive for seamless user experience.
-Technologies Used:
+1.Real-time email validation using an API.
+2.Checks for valid email format, domain, and SMTP status.
+3.User-friendly and interactive interface built with HTML, CSS, and JavaScript.
+4.Fast and responsive for seamless user experience.
 
-JavaScript: For dynamic functionality and handling events.
-Email Validation API: For accurate email verification.
-HTML/CSS: For clean and responsive design.
+# Technologies Used:
+1.JavaScript: For dynamic functionality and handling events.
+2.Email Validation API: For accurate email verification.
+3.HTML/CSS: For clean and responsive design.
+
 Perfect for ensuring accurate communication in applications that rely on email addresses. Check it out and try it for yourself!
